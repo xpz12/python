@@ -1,1 +1,1 @@
-# python
+# [1 кт](ct1/main.py)
